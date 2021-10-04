@@ -13,8 +13,8 @@ cd ingham-medphys-coding <br />
 cd src
 
 ## 4. Download dash module, dash-bootstrap-components, pandas
-pip install dash -U
-pip install dash-bootstrap-components
+pip install dash -U <br />
+pip install dash-bootstrap-components <br />
 pip install pandas
 
 ## 5. Run python file
