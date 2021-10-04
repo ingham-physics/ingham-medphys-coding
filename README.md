@@ -9,7 +9,7 @@ conda create -n dash-dev python=3.7 -y
 conda activate dash-dev
 
 ## 3. Make sure to run python file under "src" file
-cd ingham-medphys-coding
+cd ingham-medphys-coding \n
 cd src
 
 ## 4. Run python file
