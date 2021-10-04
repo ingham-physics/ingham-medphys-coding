@@ -23,5 +23,5 @@ python3 challenge_september_2021.py
 ## 6. Open the URL shows in Terminal (copy and paste it in Google Chrome)
 e.g.,"Dash is running on http://127.0.0.1:8050/" 
 
-## (7. If error shows address occupied, need to kill current process, and redo step5)
+## (7. If error shows address occupied, it needs to kill current process on terminal, and redo step6)
 pkill -9 python
